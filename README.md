@@ -9,7 +9,11 @@
 - _Kopiraj_ označeno v odložišče: Ctrl+C (**C**opy)
 - _Izreži_ označeno v odložišče: Ctrl+X
 - _Prilepi_ vsebino odložišča: Ctrl+V
-
+- VSCode paleta ukazov: Ctrl + Shift + P
+- Skok na začetek vrstice: Home
+- Premik za eno besedo naprej: Ctrl + puščica desno
+- Brisanje vrstice: Ctrl + Shift + K
+- Pretvorba označenega besedila v velike črke: Transform to Uppercase
 <!-- 2. nivojski razdelek -->
 <kbd>Koda
 
