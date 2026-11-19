@@ -3,3 +3,14 @@
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+*.bbl
+*.blg
+*.idx
+*.ilg
+*.ind
+*.nav
+*.out
+*.snm
+*.toc
+*.pdf
+!slika.pdf
